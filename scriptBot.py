@@ -49,9 +49,9 @@ async def on_message(message):
                 /**************************************************/
               ''')
 
-            if 'Eiras Cléo' in ligne:
+            if 'Eiras Cléo' in ligne or 'Eras Cléo' in ligne:
               jour = 0
-              i = 11
+              i = 0
 
               while i < len(ligne):
                 if ligne[i] == 'R':
