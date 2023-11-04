@@ -71,4 +71,4 @@ async def on_message(message):
 
               break
 
-bot.run('MTExOTQ4Njg0NjI1OTQyOTM5Nw.GyPf0n.qD2C1JdurFoCfxbxkH3nHTdApha1obmNdptRF0')
+bot.run('')
