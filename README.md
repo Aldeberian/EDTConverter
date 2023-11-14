@@ -6,7 +6,7 @@ Analysing a picture by computer
 
 ## Where does the project come from ...
 
-At the time I was working in a company that gave me my work hours by printing a speadsheet. As this was tedeous to read, I got the idea for this project.
+At the time I was working in a company that gave me my work hours by printing a speadsheet. As this was tedious to read, I got the idea for this project.
 
 ## What the project does ...
 
